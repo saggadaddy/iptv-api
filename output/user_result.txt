@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-15 19:00:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-16 06:56:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -922,6 +922,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8$订阅源
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh$订阅源
+江苏公共,http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG$订阅源
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs$订阅源
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys$订阅源
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy$订阅源
@@ -947,10 +948,10 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 苏州社会经济,rtmp://csztv.2500sz.com/live/c02$订阅源
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv$订阅源
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源
-镇江二套社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8$订阅源
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8$订阅源
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8$订阅源
+镇江二套社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8$订阅源
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0$订阅源
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8$订阅源
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
@@ -1043,8 +1044,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd$订阅源
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8$订阅源
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef$订阅源
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1$订阅源
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan$订阅源
@@ -1308,12 +1307,15 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 静宁综合,https://play.kankanlive.com/live/1722996149311198.m3u8$订阅源
 
 ☘️新疆频道,#genre#
+哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv$订阅源
+哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8$订阅源
+哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8$订阅源
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd$订阅源
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd$订阅源
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd$订阅源
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd$订阅源
-兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd$订阅源
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=$订阅源
+兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd$订阅源
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd$订阅源
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
@@ -1429,8 +1431,8 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$订阅源
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8$订阅源
 吉林乡村,http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8$订阅源
-延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8$订阅源
 延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8$订阅源
+延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8$订阅源
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8#http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild$订阅源
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
